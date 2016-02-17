@@ -1,0 +1,16 @@
+{
+  "name": "imbafire",
+  "version": "0.0.0",
+  "description": "Imba bindings for Firebase.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "imba",
+    "imbafire"
+  ],
+  "author": "Luke Edwards",
+  "license": "MIT"
+}
